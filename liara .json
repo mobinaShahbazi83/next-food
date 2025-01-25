@@ -1,5 +1,5 @@
 {
-  "app": "nextfood",
+  "app": "next-food",
   "port": 3000,
   "build": {
     "location": "iran"
